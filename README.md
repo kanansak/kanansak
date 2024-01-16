@@ -6,7 +6,7 @@ Student Rajamangala University of Technology Srivijaya (RUTS)
 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [PORTFOLIO](http://sites.google.com/rmutsvmail.com/kanansak-sujaree/home)
-* ✉️  You can contact me at [kanansak1s@gmail.com](mailto:kanansak1s@gmail.com)
+* ✉️  You can contact me at [kanansak.s@gmail.com](mailto:kanansak.s@gmail.com)
 
 ### Skills
 
